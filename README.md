@@ -23,4 +23,13 @@ My Leetcode DSA solution
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/krixhpatel/Leetcode/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/krixhpatel/Leetcode/tree/master/0010-regular-expression-matching) |
+## String
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/krixhpatel/Leetcode/tree/master/0010-regular-expression-matching) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/krixhpatel/Leetcode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
