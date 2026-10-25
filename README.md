@@ -7,6 +7,7 @@ My Leetcode DSA solution
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/krixhpatel/Leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/krixhpatel/Leetcode/tree/master/0014-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,8 +29,13 @@ My Leetcode DSA solution
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/krixhpatel/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0014-longest-common-prefix](https://github.com/krixhpatel/Leetcode/tree/master/0014-longest-common-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/krixhpatel/Leetcode/tree/master/0010-regular-expression-matching) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/krixhpatel/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
