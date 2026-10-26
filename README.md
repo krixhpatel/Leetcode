@@ -8,6 +8,7 @@ My Leetcode DSA solution
 | ------- |
 | [0001-two-sum](https://github.com/krixhpatel/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/krixhpatel/Leetcode/tree/master/0014-longest-common-prefix) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/krixhpatel/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,4 +39,12 @@ My Leetcode DSA solution
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/krixhpatel/Leetcode/tree/master/0014-longest-common-prefix) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/krixhpatel/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+## Matrix
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/krixhpatel/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
