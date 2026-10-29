@@ -10,6 +10,7 @@ My Leetcode DSA solution
 | [0014-longest-common-prefix](https://github.com/krixhpatel/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/krixhpatel/Leetcode/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/krixhpatel/Leetcode/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/krixhpatel/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/krixhpatel/Leetcode/tree/master/0283-move-zeroes) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/krixhpatel/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
@@ -25,6 +26,7 @@ My Leetcode DSA solution
 | ------- |
 | [0002-add-two-numbers](https://github.com/krixhpatel/Leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/krixhpatel/Leetcode/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/krixhpatel/Leetcode/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -56,6 +58,7 @@ My Leetcode DSA solution
 |  |
 | ------- |
 | [0015-3sum](https://github.com/krixhpatel/Leetcode/tree/master/0015-3sum) |
+| [0189-rotate-array](https://github.com/krixhpatel/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/krixhpatel/Leetcode/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
