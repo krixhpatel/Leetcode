@@ -26,6 +26,7 @@ My Leetcode DSA solution
 | ------- |
 | [0002-add-two-numbers](https://github.com/krixhpatel/Leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/krixhpatel/Leetcode/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/krixhpatel/Leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/krixhpatel/Leetcode/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
@@ -37,6 +38,7 @@ My Leetcode DSA solution
 | ------- |
 | [0010-regular-expression-matching](https://github.com/krixhpatel/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/krixhpatel/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/krixhpatel/Leetcode/tree/master/0067-add-binary) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -64,4 +66,12 @@ My Leetcode DSA solution
 |  |
 | ------- |
 | [0015-3sum](https://github.com/krixhpatel/Leetcode/tree/master/0015-3sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/krixhpatel/Leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/krixhpatel/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
