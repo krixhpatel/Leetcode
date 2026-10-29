@@ -8,6 +8,7 @@ My Leetcode DSA solution
 | ------- |
 | [0001-two-sum](https://github.com/krixhpatel/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/krixhpatel/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/krixhpatel/Leetcode/tree/master/0015-3sum) |
 | [0283-move-zeroes](https://github.com/krixhpatel/Leetcode/tree/master/0283-move-zeroes) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/krixhpatel/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
@@ -51,5 +52,10 @@ My Leetcode DSA solution
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/krixhpatel/Leetcode/tree/master/0015-3sum) |
 | [0283-move-zeroes](https://github.com/krixhpatel/Leetcode/tree/master/0283-move-zeroes) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/krixhpatel/Leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
