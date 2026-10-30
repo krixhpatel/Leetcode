@@ -12,6 +12,7 @@ My Leetcode DSA solution
 | [0045-jump-game-ii](https://github.com/krixhpatel/Leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/krixhpatel/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/krixhpatel/Leetcode/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/krixhpatel/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/krixhpatel/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/krixhpatel/Leetcode/tree/master/0283-move-zeroes) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/krixhpatel/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -74,6 +75,7 @@ My Leetcode DSA solution
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/krixhpatel/Leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/krixhpatel/Leetcode/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
