@@ -9,6 +9,7 @@ My Leetcode DSA solution
 | [0001-two-sum](https://github.com/krixhpatel/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/krixhpatel/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/krixhpatel/Leetcode/tree/master/0015-3sum) |
+| [0045-jump-game-ii](https://github.com/krixhpatel/Leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/krixhpatel/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/krixhpatel/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/krixhpatel/Leetcode/tree/master/0283-move-zeroes) |
@@ -43,6 +44,7 @@ My Leetcode DSA solution
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/krixhpatel/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0045-jump-game-ii](https://github.com/krixhpatel/Leetcode/tree/master/0045-jump-game-ii) |
 ## Trie
 |  |
 | ------- |
@@ -74,4 +76,8 @@ My Leetcode DSA solution
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/krixhpatel/Leetcode/tree/master/0067-add-binary) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/krixhpatel/Leetcode/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
