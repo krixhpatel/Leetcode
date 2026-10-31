@@ -10,6 +10,7 @@ My Leetcode DSA solution
 | [0014-longest-common-prefix](https://github.com/krixhpatel/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/krixhpatel/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/krixhpatel/Leetcode/tree/master/0016-3sum-closest) |
+| [0027-remove-element](https://github.com/krixhpatel/Leetcode/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/krixhpatel/Leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/krixhpatel/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/krixhpatel/Leetcode/tree/master/0066-plus-one) |
@@ -67,6 +68,7 @@ My Leetcode DSA solution
 | ------- |
 | [0015-3sum](https://github.com/krixhpatel/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/krixhpatel/Leetcode/tree/master/0016-3sum-closest) |
+| [0027-remove-element](https://github.com/krixhpatel/Leetcode/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/krixhpatel/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/krixhpatel/Leetcode/tree/master/0283-move-zeroes) |
 ## Sorting
