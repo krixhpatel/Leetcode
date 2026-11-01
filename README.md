@@ -16,6 +16,7 @@ My Leetcode DSA solution
 | [0066-plus-one](https://github.com/krixhpatel/Leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/krixhpatel/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/krixhpatel/Leetcode/tree/master/0189-rotate-array) |
+| [0228-summary-ranges](https://github.com/krixhpatel/Leetcode/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/krixhpatel/Leetcode/tree/master/0283-move-zeroes) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/krixhpatel/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
